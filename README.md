@@ -1,4 +1,6 @@
-  
+# In java how to deploy
+java -jar target/*.jar
+
 # Simple Spring Boot with Docker Application#
 
 
